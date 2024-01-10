@@ -15,7 +15,7 @@
 
 ### What is the difference between Native and Cross-platform Applications?
 
-> [!Native Applications]
+> [!NativeApplications]
 1. Different Codebases
 1. Higher Cost
 1. Fast and Responsive

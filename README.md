@@ -14,14 +14,12 @@
   - but it budgeting and time, to overcome this problem (complexity) there exist a mobile frameworks supporting both OSs (cross-platform).
 
 ### What is the difference between Native and Cross-platform Applications?
-#### Native Applications
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!Native Applications]
+1. Different Codebases
+1. Higher Cost
+1. Fast and Responsive
+1. Long Development time
+1. interact with device's sensors
+1. can be used offline
 
-> Different Codebases
-> Higher Cost
->Fast and Responsive
-    -Long Development time
-    -interact with device's sensors
-    -can be used offline

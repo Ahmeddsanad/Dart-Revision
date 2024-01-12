@@ -68,7 +68,7 @@
 -   iPhone: iOS 8 or newer
 
 #### Flutter Advantages and Dis Advantages
-####**Advantages**
+**Advantages**
 1. Dart has a large repository of software packages which lets you to extend the capabilities of your application
 1. Developers need to write just a single code base for both applications (both Android and iOS platforms).
 1. Flutter may to be extended to other platform as well in the future.
@@ -77,7 +77,7 @@
 1. With Flutter, developers has full control over the widgets and its layout.
 1. Flutter offers great developer tools, with amazing hot reload
 
-####**Dis Advantages** 
+**Dis Advantages** 
 1. Coded in Dart language, a developer needs to learn new language.
 1. Modern framework tries to separate logic and UI
 1. Flutter, user interface and logic is intermixed.
